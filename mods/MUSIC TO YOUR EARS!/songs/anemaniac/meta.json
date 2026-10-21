@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#000000",
+	"opponentModeAllowed": true,
+	"icon": "face",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Anemaniac",
+	"needsVoices": true,
+	"beatsPerMeasure": 3,
+	"bpm": 105
+}

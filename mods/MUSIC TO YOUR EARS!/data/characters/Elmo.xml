@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-250" y="-100" sprite="ElmoSmol" scale="0.75" flipX="true" icon="fakemo" color="#000000">
+	<anim name="idle" anim="Elmo Idle" fps="15" loop="true"/>
+	<anim name="singDOWN" anim="Elmo Down"/>
+	<anim name="singRIGHT" anim="Elmo Left"/>
+	<anim name="singLEFT" anim="Elmo Right"/>
+	<anim name="singUP" anim="Elmo Up"/>
+</character>

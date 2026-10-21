@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spotlight.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spotlight instance 10000" x="0" y="0" width="720" height="989" frameX="-1" frameY="-7" frameWidth="721" frameHeight="1002"/>
+	<SubTexture name="spotlight instance 10001" x="0" y="0" width="720" height="989" frameX="-1" frameY="-7" frameWidth="721" frameHeight="1002"/>
+	<SubTexture name="spotlight instance 10002" x="720" y="0" width="721" height="1002"/>
+	<SubTexture name="spotlight instance 10003" x="720" y="0" width="721" height="1002"/>
+</TextureAtlas>

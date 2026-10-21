@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="background1.png">
+<SubTexture name="Tantrum_BG dance0000" x="0" y="0" width="1350" height="850" frameX="0" frameY="0" frameWidth="1350" frameHeight="850" />
+<SubTexture name="Tantrum_BG dance0001" x="1350" y="0" width="1350" height="850" frameX="0" frameY="0" frameWidth="1350" frameHeight="850" />
+<SubTexture name="Tantrum_BG dance0002" x="0" y="850" width="1350" height="850" frameX="0" frameY="0" frameWidth="1350" frameHeight="850" />
+</TextureAtlas>

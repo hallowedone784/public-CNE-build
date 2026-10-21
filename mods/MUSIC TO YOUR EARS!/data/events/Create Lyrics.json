@@ -1,0 +1,19 @@
+{
+    "params": [
+        {
+            "name": "Icon",
+            "type": "String",
+            "defaultValue": ""
+        },
+        {
+            "name": "Lyrics",
+            "type": "String",
+            "defaultValue": ""
+        },
+        {
+            "name": "Side",
+            "type": "Bool",
+            "defaultValue": "true"
+        }
+    ]
+}

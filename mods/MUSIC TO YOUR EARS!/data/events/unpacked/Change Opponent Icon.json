@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "New Icon",
+            "type": "String",
+            "defaultValue": ""
+        }
+    ]
+}

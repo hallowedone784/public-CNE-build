@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "bf",
+	"difficulties": [
+		"freaky"
+	],
+	"color": "#0021FF",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "busta nights",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 180
+}

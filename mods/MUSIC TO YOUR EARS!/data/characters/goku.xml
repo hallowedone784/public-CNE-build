@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character y="-2000" sprite="HOLYFUCKGOKU" scale="0.2" icon="snuffy" color="#000000">
+	<anim name="idle" anim="GOKU GOKU"/>
+	<anim name="singDOWN" anim="GOKU GOKU"/>
+	<anim name="singRIGHT" anim="GOKU GOKU"/>
+	<anim name="singLEFT" anim="GOKU GOKU"/>
+	<anim name="singUP" anim="GOKU GOKU"/>
+	<anim name="GOKU GOKU" anim="GOKU GOKU"/>
+</character>

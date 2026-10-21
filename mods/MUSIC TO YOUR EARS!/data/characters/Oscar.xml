@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-750" y="-450" sprite="oscar" scale="0.6" icon="Oscar">
+	<anim name="idle" anim="Oscar Idle" fps="15" loop="true"/>
+	<anim name="singDOWN" anim="Oscar Down"/>
+	<anim name="singRIGHT" anim="Oscar Right"/>
+	<anim name="singLEFT" anim="Oscar Left"/>
+	<anim name="singUP" anim="Oscar Up"/>
+</character>

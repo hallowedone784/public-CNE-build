@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="StanDark" icon="stan" color="#000000">
+	<anim name="idle" anim="Idle" loop="true"/>
+	<anim name="USA" anim="Usa" x="100" y="100"/>
+</character>

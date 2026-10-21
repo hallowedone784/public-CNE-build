@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "jake",
+	"difficulties": [
+		"hard"
+	],
+	"color": "#000000",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Made in Abyss",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 100
+}

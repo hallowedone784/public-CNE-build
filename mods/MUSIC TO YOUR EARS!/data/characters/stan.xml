@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="StanSmeth1" color="#5010C5">
+	<anim name="idle" anim="Idle" loop="true"/>
+	<anim name="singDOWN" anim="Down" y="-150"/>
+	<anim name="singRIGHT" anim="Right"/>
+	<anim name="singLEFT" anim="Left" x="100" y="100"/>
+	<anim name="singUP" anim="Up" x="100" y="100"/>
+	<anim name="idle-ALT" anim="Elec" loop="true"/>
+</character>

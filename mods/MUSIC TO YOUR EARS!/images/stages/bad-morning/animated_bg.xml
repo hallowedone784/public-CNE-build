@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="animated_bg.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="3000" height="2000" frameX="-133" frameY="0" frameWidth="3133" frameHeight="2000"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="3000" height="2000" frameX="-133" frameY="0" frameWidth="3133" frameHeight="2000"/>
+	<SubTexture name="Idle0002" x="3000" y="0" width="3000" height="2000" frameX="-133" frameY="0" frameWidth="3133" frameHeight="2000"/>
+	<SubTexture name="Idle0003" x="3000" y="0" width="3000" height="2000" frameX="-133" frameY="0" frameWidth="3133" frameHeight="2000"/>
+	<SubTexture name="Idle0004" x="0" y="2000" width="3133" height="2000"/>
+	<SubTexture name="Idle0005" x="0" y="2000" width="3133" height="2000"/>
+	<SubTexture name="Idle0006" x="3133" y="2000" width="3007" height="2000" frameX="-126" frameY="0" frameWidth="3133" frameHeight="2000"/>
+	<SubTexture name="Idle0007" x="3133" y="2000" width="3007" height="2000" frameX="-126" frameY="0" frameWidth="3133" frameHeight="2000"/>
+</TextureAtlas>

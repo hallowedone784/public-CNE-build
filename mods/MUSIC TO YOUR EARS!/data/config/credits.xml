@@ -1,0 +1,17 @@
+<menu name="Mod Credits" desc="A test to see how credits.xml works.">
+    <credit
+        name = "orgablorg" 
+        desc = "Main coder of the mod. Vive diu et flore, ad astra." 
+        icon = "orgablorg"
+        size = "115"
+        url = "https://www.youtube.com/@orgablorgYT"
+        color = "#511A84"
+    />
+    <credit 
+        name = "swagaruney"
+        desc = "My coding friend, knows more about Codename Engine than I do."
+        icon = "swagaruney"
+        size = "115"
+        url = "http://swagaruneysstuff.info/"
+    />
+</menu>

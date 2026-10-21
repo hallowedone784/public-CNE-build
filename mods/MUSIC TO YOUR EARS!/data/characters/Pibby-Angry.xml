@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Pibby_Angy" flipX="true" isPlayer="true">
+	<anim name="idle" anim="Idle alt"/>
+	<anim name="singDOWN" anim="Down Alt" x="150" y="45"/>
+	<anim name="singRIGHT" anim="Right Alt" x="45" y="-15"/>
+	<anim name="singLEFT" anim="Left Alt" x="140" y="35"/>
+	<anim name="singUP" anim="Up Alt" x="105" y="25"/>
+	<anim name="Cmon" anim="Cmon" x="180" y="95"/>
+	<anim name="singDOWNMiss" anim="MissD" x="25" y="-50"/>
+	<anim name="singLEFTMiss" anim="MissL" x="170" y="125"/>
+	<anim name="singRIGHTMiss" anim="MissR" x="210" y="140"/>
+	<anim name="singUPMiss" anim="MissU" x="125" y="165"/>
+</character>

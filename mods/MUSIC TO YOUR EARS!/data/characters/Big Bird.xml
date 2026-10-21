@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-800" y="-700" sprite="bigbird" scale="0.8" flipX="true" isPlayer="true" icon="bigbird" color="#FFF200">
+	<anim name="idle" anim="big idle" fps="12" loop="true"/>
+	<anim name="singDOWN" anim="big down"/>
+	<anim name="singRIGHT" anim="big right"/>
+	<anim name="singLEFT" anim="big left"/>
+	<anim name="singUP" anim="big up"/>
+</character>

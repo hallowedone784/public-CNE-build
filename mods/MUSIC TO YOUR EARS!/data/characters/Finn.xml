@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Finn-CN" icon="Finn">
+	<anim name="idle" anim="Idle" loop="true"/>
+	<anim name="singDOWN" anim="Down" x="50" y="-95"/>
+	<anim name="singRIGHT" anim="Right"/>
+	<anim name="singLEFT" anim="Left" x="200" y="-65"/>
+	<anim name="singUP" anim="Up" y="85"/>
+</character>

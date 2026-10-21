@@ -1,0 +1,10 @@
+<!-- will be a base for 17bucks and upcoming songs-->
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.75" name="whitespace" folder="stages/whitespace" startCamPosX="550" startCamPosY="500">
+    <solid name="void" color="#FFFFFF" x="-1500" y="-400" width="3840" height="2160"/>
+    <girlfriend x="-40"/>
+    <dad x="-350"/>
+    <boyfriend x="825"/>
+</stage>
+
+<!-- the starting zoom isn't respected by codename engine, find a way to fix this-->

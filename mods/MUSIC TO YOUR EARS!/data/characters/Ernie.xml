@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="ernie" scale="0.6" flipX="true" isPlayer="true" icon="Ernie">
+	<anim name="idle" anim="ernie idle"/>
+	<anim name="singDOWN" anim="ernie down"/>
+	<anim name="singRIGHT" anim="ernie left"/>
+	<anim name="singLEFT" anim="ernie right"/>
+	<anim name="singUP" anim="ernie up"/>
+</character>

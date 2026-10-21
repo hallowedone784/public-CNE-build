@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="oscar.png"><SubTexture name="Oscar Idle0000" x="3805" y="5065" width="961" height="1042" frameX="-379" frameY="-425" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Idle0001" x="1903" y="5065" width="951" height="1048" frameX="-384" frameY="-418" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Idle0002" x="2854" y="5065" width="951" height="1047" frameX="-385" frameY="-417" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Idle0003" x="0" y="5065" width="951" height="1072" frameX="-384" frameY="-394" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Idle0004" x="6052" y="0" width="948" height="1085" frameX="-386" frameY="-379" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Idle0005" x="4826" y="2415" width="950" height="1096" frameX="-384" frameY="-370" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Idle0006" x="6052" y="1085" width="946" height="1046" frameX="-388" frameY="-417" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Idle0007" x="951" y="5065" width="952" height="1049" frameX="-382" frameY="-417" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Down0000" x="3592" y="1258" width="1165" height="1222" frameX="-388" frameY="-245" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Down0001" x="7000" y="0" width="999" height="1029" frameX="-392" frameY="-436" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Down0002" x="4766" y="5065" width="1006" height="1034" frameX="-388" frameY="-433" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Down0003" x="5772" y="5065" width="999" height="1031" frameX="-393" frameY="-430" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Down0004" x="7000" y="1029" width="994" height="1029" frameX="-397" frameY="-432" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Down0005" x="7000" y="2058" width="997" height="1028" frameX="-394" frameY="-432" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Left0000" x="1079" y="3975" width="1121" height="1089" frameX="-202" frameY="-381" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Left0001" x="4346" y="3975" width="1097" height="1087" frameX="-232" frameY="-379" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Left0002" x="0" y="3975" width="1079" height="1090" frameX="-244" frameY="-377" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Left0003" x="3692" y="2754" width="1071" height="1091" frameX="-254" frameY="-377" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Left0004" x="2200" y="3975" width="1066" height="1088" frameX="-253" frameY="-377" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Left0005" x="3266" y="3975" width="1080" height="1088" frameX="-254" frameY="-378" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Up0000" x="1191" y="0" width="1218" height="1381" frameX="-295" frameY="-86" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Up0001" x="0" y="0" width="1191" height="1385" frameX="-310" frameY="-79" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Up0002" x="2409" y="0" width="1183" height="1379" frameX="-315" frameY="-81" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Up0003" x="0" y="1385" width="1178" height="1369" frameX="-318" frameY="-90" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Up0004" x="1178" y="1385" width="1178" height="1357" frameX="-318" frameY="-104" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Up0005" x="2356" y="1385" width="1178" height="1353" frameX="-318" frameY="-105" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Right0000" x="3592" y="0" width="1234" height="1258" frameX="-406" frameY="-232" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Right0001" x="0" y="2754" width="1236" height="1221" frameX="-400" frameY="-269" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Right0002" x="4826" y="0" width="1226" height="1209" frameX="-407" frameY="-279" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Right0003" x="1236" y="2754" width="1234" height="1213" frameX="-397" frameY="-277" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Right0004" x="4826" y="1209" width="1210" height="1206" frameX="-420" frameY="-281" frameWidth="1920" frameHeight="1500" />
+<SubTexture name="Oscar Right0005" x="2470" y="2754" width="1222" height="1211" frameX="-408" frameY="-279" frameWidth="1920" frameHeight="1500" />
+</TextureAtlas>

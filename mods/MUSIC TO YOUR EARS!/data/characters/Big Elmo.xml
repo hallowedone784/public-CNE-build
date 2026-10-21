@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="ElmoBeeg" icon="elmo" color="#000000">
+	<anim name="idle" anim="Elmo Idle"/>
+	<anim name="singDOWN" anim="Elmo Down"/>
+	<anim name="singRIGHT" anim="Elmo Right"/>
+	<anim name="singLEFT" anim="Elmo Left"/>
+	<anim name="singUP" anim="Elmo Up"/>
+</character>

@@ -1,0 +1,39 @@
+{
+    "params": [
+        {
+            "name": "Tween Bars?",
+            "type": "Bool",
+            "defaultValue": "true"
+        },
+        {
+            "name": "Distance From Center",
+            "type": "Int(0, 1920, 1)",
+            "defaultValue": "50"
+        },
+        {
+            "name": "Angle (doesn't work properly atm)",
+            "type": "Int(-360, 360, 1)",
+            "defaultValue": "0"
+        },
+        {
+            "name": "Camera Bop (does nothing currently!)",
+            "type": "Bool",
+            "defaultValue": "true"
+        },
+        {
+            "name": "Tween Time (Steps)",
+            "type": "Float(0, 9999, 0.1)",
+            "defaultValue": "4"
+        },
+        {
+            "name": "Tween Ease (ex: circ, quad, cube)",
+            "type": "DropDown('linear', 'back', 'bounce', 'circ', 'cube', 'elastic', 'expo', 'quad', 'quart', 'quint', 'sine')",
+            "defaultValue": "linear"
+        },
+        {
+            "name": "Tween Type (excluded if linear, ex: InOut)",
+            "type": "DropDown('In', 'Out', 'InOut')",
+            "defaultValue": "In"
+        }
+    ]
+}

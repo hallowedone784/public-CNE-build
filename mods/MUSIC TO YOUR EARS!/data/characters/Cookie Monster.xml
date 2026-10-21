@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-500" y="-300" sprite="cookiemonster" scale="0.7" icon="cookie" color="#004FFF">
+	<anim name="idle" anim="guy idle" fps="15" loop="true"/>
+	<anim name="singDOWN" anim="guy down" y="300"/>
+	<anim name="singRIGHT" anim="guy right" y="300"/>
+	<anim name="singLEFT" anim="guy left" y="300"/>
+	<anim name="singUP" anim="guy up" y="300"/>
+</character>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="600" startCamPosY="1000" folder="stages/bad-morning/" zoom="0.8" name="stan-house">
+	<sprite x="-400" sprite="animated_bg" y="-500" name="bg"/>
+	<sprite x="-400" sprite="evil_bg" y="-500" alpha="0" name="bg2"/>
+	<girlfriend x="750" y="500"/>
+	<dad x="300" y="550"/>
+	<boyfriend x="1700" y="550"/>
+</stage>

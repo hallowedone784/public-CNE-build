@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="StanSmeth1" icon="icon-stan" color="#3b5372" x="-510" y="350" camx="510" camy="-260">
+	<anim name="singDOWN" anim="Down" x="-421" y="111"/>
+	<anim name="singUP" anim="Up" x="-324" y="433"/>
+	<anim name="idle" anim="Idle" x="-401" y="290" fps="22" loop="true"/>
+	<anim name="singRIGHT" anim="Right" x="-415" y="266"/>
+	<anim name="singLEFT" anim="Left" x="-223" y="386"/>
+	<anim name="Elec" anim="Elec" x="-403" y="290"/>
+</character>

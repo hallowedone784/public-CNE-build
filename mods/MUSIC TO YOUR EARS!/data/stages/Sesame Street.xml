@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="600" startCamPosY="1000" zoom="0.6" folder="stages/sesame-street/" name="Sesame Street">
+	<sprite x="1319" sprite="background1" y="830" scale="2.5" name="tantrum"/>
+	<girlfriend x="1531" y="1244"/>
+	<dad x="1000" y="1300"/>
+	<boyfriend x="2883" y="1400"/>
+</stage>

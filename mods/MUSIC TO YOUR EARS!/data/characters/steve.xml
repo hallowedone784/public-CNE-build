@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="SteveRemake" scale="1.2" flipX="true" isPlayer="true" color="#000000">
+	<anim name="idle" anim="Idle"/>
+	<anim name="singDOWN" anim="Down" x="25" y="-25"/>
+	<anim name="singRIGHT" anim="Right"/>
+	<anim name="singLEFT" anim="Left" x="100" y="-10"/>
+	<anim name="singUP" anim="Up" x="-25" y="20"/>
+</character>

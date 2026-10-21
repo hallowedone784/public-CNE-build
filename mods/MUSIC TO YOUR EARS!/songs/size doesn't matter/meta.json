@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#9600FF",
+	"opponentModeAllowed": true,
+	"icon": "big",
+	"difficulties": [
+		"teaser"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "size-doesn't-matter",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 144
+}

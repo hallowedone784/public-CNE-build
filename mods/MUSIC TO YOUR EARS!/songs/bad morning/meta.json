@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#716DC8",
+	"opponentModeAllowed": true,
+	"icon": "stan",
+	"difficulties": [
+		"b-side"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Bad Morning",
+	"needsVoices": false,
+	"beatsPerMeasure": 4,
+	"bpm": 151
+}

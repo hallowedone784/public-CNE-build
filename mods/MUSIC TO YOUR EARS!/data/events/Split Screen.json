@@ -1,0 +1,49 @@
+{
+    "params": [
+        {
+            "name": "Left Side",
+            "type": "StrumLine",
+            "defaultValue": 0
+        },
+        {
+            "name": "Right Side",
+            "type": "StrumLine",
+            "defaultValue": 1
+        },
+        {
+            "name": "Tween-in Duration",
+            "type": "Float(0, 2, 0.1, 2)",
+            "defaultValue": 0.2
+        },
+        {
+            "name": "Tween-in Delay",
+            "type": "Bool",
+            "defaultValue": "false"
+        },
+        {
+            "name": "Left X-Offset",
+            "type": "Int(-2000, 2000, 1)",
+            "defaultValue": 0
+        },
+        {
+            "name": "Left Y-Offset",
+            "type": "Int(-2000, 2000, 1)",
+            "defaultValue": 0
+        },
+        {
+            "name": "Right X-Offset",
+            "type": "Int(-2000, 2000, 1)",
+            "defaultValue": 0
+        },
+        {
+            "name": "Right Y-Offset",
+            "type": "Int(-2000, 2000, 1)",
+            "defaultValue": 0
+        },
+        {
+            "name": "Stop Splitscreen",
+            "type": "Bool",
+            "defaultValue": "false"
+        }
+    ]
+}

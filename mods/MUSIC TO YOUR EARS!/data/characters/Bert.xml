@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="bert" scale="0.6" flipX="true" isPlayer="true" icon="Bert">
+	<anim name="idle" anim="bert idle"/>
+	<anim name="singDOWN" anim="bert down"/>
+	<anim name="singRIGHT" anim="bert left"/>
+	<anim name="singLEFT" anim="bert right"/>
+	<anim name="singUP" anim="bert up"/>
+</character>

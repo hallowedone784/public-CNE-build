@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#000000",
+	"opponentModeAllowed": true,
+	"icon": "bf",
+	"difficulties": [
+		"motif"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "mallory snippet 1",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 210
+}
