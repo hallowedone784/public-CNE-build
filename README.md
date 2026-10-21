@@ -1,0 +1,2 @@
+This repository is a stripped-down version of my current projects using FNF: Codename Engine. It doesn't include any unreleased mods, assets, songs, et. cetera, and not everything here is in a completely playable state. It will only be updated when significant progress has been made on a song, more often than not being when a song is near a playable state and-or completed.
+I'm always open to recommendations on mechanics, songs, etc. to try and code in. I love a good challenge. I'm also open to working with others when it comes to this stuff!
